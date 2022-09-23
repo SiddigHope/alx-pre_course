@@ -1,0 +1,13 @@
+these git command were used in this tasks
+git add .
+git commit
+git push
+git pull
+git reset
+git revert
+git status
+git stash
+git remote
+git checkout
+git branch
+followed by other emacs commands to edit files
